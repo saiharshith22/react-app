@@ -60,6 +60,20 @@ input {
   border: none;
   border-radius: 4px;
 }
+.button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  margin-top: 1rem;
+  background-color: #f7e596;
+  border: none;
+  border-radius: 4px;
+  font: inherit;
+  font-weight: bold;
+  color: #3a4346;
+  cursor: pointer;
+  text-align: center;
+}
 
 form button {
   display: block;
